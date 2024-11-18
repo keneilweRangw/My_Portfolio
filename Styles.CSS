@@ -10,7 +10,7 @@ body {
 
 /* Header */
 header {
-    background-color: #0073e6;
+    background-color: #11111c;
     color: white;
     padding: 1rem;
     text-align: center;
@@ -44,7 +44,7 @@ main {
 
 /* Footer */
 footer {
-    background: #0073e6;
+    background: #11111c;
     color: white;
     text-align: center;
     padding: 1rem 0;
