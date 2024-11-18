@@ -1,0 +1,30 @@
+# Keneilwe Rangwaga Portfolio
+
+Welcome to my portfolio! This site showcases my work as a data scientist, with projects and examples that highlight my expertise in data analysis, machine learning, and data visualization.
+
+## Sections:
+
+### 1. **About Me**
+   - Introduction to my background, skills, and expertise as a data scientist.
+   - Key qualifications and areas of focus, such as data analysis, machine learning, and problem-solving.
+
+### 2. **Skills**
+   - A list of technical skills including programming languages (Python, SQL), tools (Power BI, Excel), and libraries (Pandas, Scikit-learn).
+   - Strong abilities in data visualization, machine learning, and cloud computing.
+
+### 3. **Projects**
+   - **Project 1**: [River Health Project](#) – Using GIS, remote sensing, and graph theory to monitor river health.
+   - **Project 2**: [Income Prediction](#) – Predicting monthly income based on demographic and educational data.
+   - **Project 3**: [Exploratory Data Analysis (EDA)](#) – Analyzing socio-economic trends and environmental data.
+
+### 4. **Contact**
+   - A section with ways to contact me, including email, LinkedIn, and my website.
+   - An option to download my CV.
+
+## Features:
+- Responsive design for easy viewing across devices.
+- Clean and minimal layout to highlight key information.
+- Direct links to explore each project and learn more about my work.
+
+## License
+This portfolio is open to public viewing but remains the property of Keneilwe Rangwaga. See the LICENSE file for more details.
