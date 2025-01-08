@@ -1,28 +1,28 @@
-#Keneilwe Rangwaga Portfolio
+Keneilwe Rangwaga Portfolio
 
 Welcome to my portfolio! This site showcases my work as a data scientist, with projects and examples that highlight my expertise in data analysis, machine learning, and data visualization.
 
-## Sections:
+Sections:
 
-### 1. **About Me**
+ 1. About Me
    - Introduction to my background, skills, and expertise as a data scientist.
    - Key qualifications and areas of focus, such as data analysis, machine learning, and problem-solving.
 
-### 2. **Skills**
+ 2. Skills
    - A list of technical skills including programming languages (Python, SQL), tools (Power BI, Excel), and libraries (Pandas, Scikit-learn).
    - Strong abilities in data visualization, machine learning, and cloud computing.
 
-### 3. **Projects**
-   - **Project 1**: [Mastering avocado prices](#) – Explored challenges in the avocado market by analysing sales data from 2015 to 2023, creating predictive models, and testing them to uncover key trends.
-   - **Project 3**: [Anime Recommender system (Anime Oracle)](#) – Collaboratively built a hybrid recommender system combining collaborative and content-based filtering for a collection of anime titles.
-### 4. **Contact**
+ 3. Projects
+   - Project 1: [Mastering avocado prices](#) – Explored challenges in the avocado market by analysing sales data from 2015 to 2023, creating predictive models, and testing them to uncover key trends.
+   - Project 3: [Anime Recommender system (Anime Oracle)](#) – Collaboratively built a hybrid recommender system combining collaborative and content-based filtering for a collection of anime titles.
+ 4. Contact
    - A section with ways to contact me, including email, LinkedIn, and my website.
    - An option to download my CV.
 
-## Features:
+Features:
 - Responsive design for easy viewing across devices.
 - Clean and minimal layout to highlight key information.
 - Direct links to explore each project and learn more about my work.
 
-## License
+License
 This portfolio is open to public viewing but remains the property of Keneilwe Rangwaga. See the LICENSE file for more details.
